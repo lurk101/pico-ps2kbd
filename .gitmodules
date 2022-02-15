@@ -1,0 +1,6 @@
+[submodule "ps2kbd-lib"]
+	path = ps2kbd-lib
+	url = https://github.com/lurk101/ps2kbd-lib.git
+[submodule "stdinit-lib"]
+	path = stdinit-lib
+	url = https://github.com/lurk101/stdinit-lib.git
